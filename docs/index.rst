@@ -4,11 +4,11 @@ How to Install Avast Antivirus?
 Avast is a widely recognized name in the field of cybersecurity, offering a variety of solutions to protect your devices from malware, viruses, and other online threats. One of the most popular products in the Avast portfolio is Avast Antivirus, which provides both free and premium versions for home and business users. In this guide, we will walk through the steps for **Avast antivirus install** and highlight the key features of the software that make it a top choice for securing your system.
 
 
-.. image:: download.gif
+.. image:: install.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://i-downloadsoftwares.com/
+   :target: https://softwareinstaller.net/
 
 Avast Antivirus is designed to detect and block a wide range of threats, including viruses, ransomware, spyware, and other malware. The software is available in both a free version and a paid version, which offers more advanced features like firewall protection, VPN, and password manager. The **Avast antivirus install** process is straightforward and user-friendly, making it easy for anyone to set up.
 
